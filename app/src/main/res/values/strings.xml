@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Logiratha</string>
+    <string name="login_activity">Login</string>
+    <string name="registration_activity">Registration</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_mobile_number">Mobile Number</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="lbl_username">User Name</string>
+    <string name="lbl_email">Email Address</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="action_login">Login</string>
+</resources>
